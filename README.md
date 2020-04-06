@@ -24,9 +24,9 @@ Esto vicia!
 ```
 
 
-| Alias        | Nombre | Apellido | Repositorio |
-| :----------: | :----: |:--------:| :-------: |
-| @agimenezgor | Álvaro | Giménez  | [Hello-word](https://github.com/agimenezgor/hello-world/blob/develop_agimenezgor/README.md)
+| Alias        | Nombre | Apellido | Repositorio       |
+| :----------: | :----: |:--------:| :-------:         |
+| @agimenezgor | Álvaro | Giménez  | [pOrinetadaObjetos]https://github.com/agimenezgor/ProgOrientadaObjetos_Prac1
 
 
 # Referencias
