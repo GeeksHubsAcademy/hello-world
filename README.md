@@ -26,7 +26,7 @@ Esto vicia!
 
 | Alias        | Nombre | Apellido | Repositorio |
 | :----------: | :----: | :------: | :-------: |
-| @agimenezgor | Álvaro | Giménez  | [Hello-word](https://github.com/GeeksHubsAcademy/hello-world)
+| @agimenezgor | Álvaro | Giménez  | [Hello-word](https://github.com/agimenezgor/hello-world/blob/develop_agimenezgor/README.md)
 
 
 # Referencias
