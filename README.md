@@ -27,6 +27,7 @@ Esto vicia!
 | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :------: | :------: | :-------: |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
+| @mariasambeat | Maria | Sambeat | [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 
 # Referencias
