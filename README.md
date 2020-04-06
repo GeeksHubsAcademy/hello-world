@@ -26,7 +26,7 @@ Esto vicia!
 
 | Alias        | Nombre | Apellido | Repositorio       |
 | :----------: | :----: |:--------:| :-------:         |
-| @agimenezgor | Álvaro | Giménez  | [pOrientadaObjetos]https://github.com/agimenezgor/ProgOrientadaObjetos_Prac1
+| @agimenezgor | Álvaro | Giménez  | https://github.com/agimenezgor/ProgOrientadaObjetos_Prac1
 
 
 # Referencias
