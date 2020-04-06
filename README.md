@@ -24,9 +24,9 @@ Esto vicia!
 ```
 
 
-| Alias | Nombre | Apellido | Repositorio |
-| :-------: | :------: | :------: | :-------: |
-| @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
+| Alias        | Nombre | Apellido | Repositorio |
+| :----------: | :----: | :------: | :-------: |
+| @agimenezgor | Álvaro | Giménez  | [Hello-word](https://github.com/GeeksHubsAcademy/hello-world)
 
 
 # Referencias
