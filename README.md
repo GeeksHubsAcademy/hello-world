@@ -27,6 +27,7 @@ Esto vicia!
 | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :------: | :------: | :-------: |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
+| @MariiaMM | Mariia | Mytsko    | no tengo el proyecto aun
 
 
 # Referencias
