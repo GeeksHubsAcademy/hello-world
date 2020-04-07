@@ -25,8 +25,9 @@ Esto vicia!
 
 
 | Alias | Nombre | Apellido | Repositorio |
-| :-------: | :------: | :------: | :-------: |
+| @Lubo7 | Lubo | Krakra | [Pagina de viajes] (https://github.com/Lubo7/paginadeviajes) |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
+
 
 
 # Referencias
