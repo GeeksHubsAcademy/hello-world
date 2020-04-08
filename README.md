@@ -26,7 +26,7 @@ Esto vicia!
 
 | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :------: | :------: | :-------: |
-| @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
+| @xavierventeo | Xavier | Venteo | [Hello-World](https://github.com/xavierventeo/hello-world)
 
 
 # Referencias
