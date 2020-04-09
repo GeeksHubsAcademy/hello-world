@@ -28,6 +28,9 @@ Esto vicia!
 | :-------: | :------: | :------: | :-------: |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
 | @almartinromero | Álvaro | Martín | [Open Coronavirus](https://github.com/open-coronavirus/open-coronavirus/)
+| @MariiaMM | Mariia | Mytsko    | no tengo el proyecto aun
+| @agimenezgor | Álvaro | Giménez  | [pOrientadaObjetos]https://github.com/agimenezgor/ProgOrientadaObjetos_Prac1
+| @SambeatMaria | Maria | Sambeat | [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 
 # Referencias
