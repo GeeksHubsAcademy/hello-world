@@ -24,7 +24,7 @@ Esto vicia!
 ```
 
 
-| Alias | Nombre | Apellido | Repositorio |
+| julimcr | Julián | Casado | GeeksHubs Hello-World |
 | :-------: | :------: | :------: | :-------: |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
 
