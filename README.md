@@ -26,7 +26,7 @@ Esto vicia!
 
 
 | Alias | Nombre | Apellido | Repositorio |
-| :-------: | :------: | :------: | :-------: |
+| @garret | Manuel | Fidalgo | develop_fidalgo |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
 
 
