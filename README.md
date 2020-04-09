@@ -28,9 +28,12 @@ Esto vicia!
 | :-------: | :------: | :------: | :-------: |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
 | @almartinromero | Álvaro | Martín | [Open Coronavirus](https://github.com/open-coronavirus/open-coronavirus/)
-| @MariiaMM | Mariia | Mytsko    | no tengo el proyecto aun
-| @agimenezgor | Álvaro | Giménez  | [pOrientadaObjetos]https://github.com/agimenezgor/ProgOrientadaObjetos_Prac1
+| @MariiaMM | Mariia | Mytsko    | Por definir
+| @agimenezgor | Álvaro | Giménez  | [pOrientadaObjetos](https://github.com/agimenezgor/ProgOrientadaObjetos_Prac1)
 | @SambeatMaria | Maria | Sambeat | [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+| @Lubo7 | Lubo | Krakra | [Pagina de viajes] (https://github.com/Lubo7/paginadeviajes) |
+| @xavierventeo | Xavier | Venteo | [Hello-World](https://github.com/xavierventeo/hello-world)
+| @garret | Manuel | Fidalgo | Por definir
 
 
 # Referencias
