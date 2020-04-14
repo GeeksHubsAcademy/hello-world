@@ -34,7 +34,9 @@ Esto vicia!
 | @Lubo7 | Lubo | Krakra | [Pagina de viajes](https://github.com/Lubo7/paginadeviajes) |
 | @xavierventeo | Xavier | Venteo | [Hello-World](https://github.com/xavierventeo/hello-world)
 | @garret | Manuel | Fidalgo | Por definir
-| @juanvilanova | Juan | Vilanova | [Hello-World](https://github.com/juanvilanova/hello-world)
+| @juanvilanova | Juan | Vilanova | [Hello-World](https://github.com/juanvilanova/hello-world)  
+| @alex | Alexandra | Jiménez | [Juego-SimónDice](https://github.com/alexandrajimenezc/juego_simon_dice)  
+
 
 
 # Referencias
