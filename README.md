@@ -36,6 +36,8 @@ Esto vicia!
 | @garret | Manuel | Fidalgo | Por definir
 | @juanvilanova | Juan | Vilanova | [Hello-World](https://github.com/juanvilanova/hello-world)
 | @Tato | Jesus | Álamo | [Kata1](https://github.com/jalacis/kata1)
+| @alex | Alexandra | Jiménez | [Juego-SimónDice](https://github.com/alexandrajimenezc/juego_simon_dice)  
+
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
