@@ -37,6 +37,8 @@ Esto vicia!
 | @juanvilanova | Juan | Vilanova | [Hello-World](https://github.com/juanvilanova/hello-world)
 | @Tato | Jesus | Álamo | [Kata1](https://github.com/jalacis/kata1)
 | @alex | Alexandra | Jiménez | [Juego-SimónDice](https://github.com/alexandrajimenezc/juego_simon_dice)  
+| @hechvelp | Hector | Velasquez | [Rytsas-Vȳs](https://github.com/HecHVelP/memoria)
+
 
 
 # Referencias
