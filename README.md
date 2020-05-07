@@ -40,6 +40,7 @@ Esto vicia!
 | @hechvelp | Hector | Velasquez | [Rytsas-Vȳs](https://github.com/HecHVelP/memoria)
 | @ebenito | J. Esteban | Benito | [MisNotas10](https://github.com/ebenito/MisNotas10)
 | @joaquin | Joaquin | Jimenez |[ErpGIT](https://github.com/GEEKHUBS/GIT_AVANZADO_CONTAGESCO)
+| @aramossanchez | Armando | Ramos |[Pagina Personal](https://github.com/aramossanchez/aramossanchez.github.io)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
