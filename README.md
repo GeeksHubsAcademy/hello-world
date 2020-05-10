@@ -35,8 +35,13 @@ Esto vicia!
 | @xavierventeo | Xavier | Venteo | [Hello-World](https://github.com/xavierventeo/hello-world)
 | @garret | Manuel | Fidalgo | Por definir
 | @juanvilanova | Juan | Vilanova | [Hello-World](https://github.com/juanvilanova/hello-world)
+| @Tato | Jesus | Álamo | [Kata1](https://github.com/jalacis/kata1)
+| @alex | Alexandra | Jiménez | [Juego-SimónDice](https://github.com/alexandrajimenezc/juego_simon_dice)  
+| @hechvelp | Hector | Velasquez | [Rytsas-Vȳs](https://github.com/HecHVelP/memoria)
+| @ebenito | J. Esteban | Benito | [MisNotas10](https://github.com/ebenito/MisNotas10)
+| @joaquin | Joaquin | Jimenez |[ErpGIT](https://github.com/GEEKHUBS/GIT_AVANZADO_CONTAGESCO)
+| @aramossanchez | Armando | Ramos |[Pagina Personal](https://github.com/aramossanchez/aramossanchez.github.io)
 | @ana393 | Ana |Tcaci | [hola-world](https://github.com/ana393/hola-world)
-
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
