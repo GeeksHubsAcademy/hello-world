@@ -47,5 +47,6 @@ Esto vicia!
 |@Ch3ssMaster | Antonio | Cebrián | [LearningPython](https://github.com/Ch3ssMaster/LearningPython)
 | @JoseMV2209 | Jose | Martí | Por definir
 | @ivancanyamas| Iván  | Canyamás | Por definir
+| @maesmar5 | Manuel | Escrig | https://github.com/maesmar5/hola-mundo.git |
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
