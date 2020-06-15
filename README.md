@@ -43,11 +43,15 @@ Esto vicia!
 | @aramossanchez | Armando | Ramos |[Pagina Personal](https://github.com/aramossanchez/aramossanchez.github.io)
 | @ana393 | Ana |Tcaci | [hola-world](https://github.com/ana393/hola-world)
 | @NovaStreet  | Paco | Nuñez | [emossidoengañado](https://github.com/NovaStreet/hello-world)
-|@SantiFO94 | Santiago | Fernandez | [hello-world](https://github.com/SantiFO94/hello-world)
-|@Ch3ssMaster | Antonio | Cebrián | [LearningPython](https://github.com/Ch3ssMaster/LearningPython)
+| @SantiFO94 | Santiago | Fernandez | [hello-world](https://github.com/SantiFO94/hello-world)
+| @Ch3ssMaster | Antonio | Cebrián | [LearningPython](https://github.com/Ch3ssMaster/LearningPython)
 | @JoseMV2209 | Jose | Martí | Por definir
 | @ivancanyamas| Iván  | Canyamás | Por definir
 | @maesmar5 | Manuel | Escrig | https://github.com/maesmar5/hola-mundo.git |
 | @MarinaSolla | Marina | Solla | https://github.com/MarinaSolla/hello-world |
+| @David | David | Pitarch | [hello-world](https://github.com/Davids-dir/hello-world)
+| @Alberi1511 | Alfonso | Beneyto | [hello-world](https://github.com/alberi1511/hello-world-1.git)
+| @juanrtalavera | Juan | Rodriguez | Por definir
+
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
