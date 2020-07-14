@@ -53,6 +53,7 @@ Esto vicia!
 | @Alberi1511 | Alfonso | Beneyto | [hello-world](https://github.com/alberi1511/hello-world-1.git)
 | @juanrtalavera | Juan | Rodriguez | Por definir
 | @aranzazusl | Aranzazu | Salguero | My first blog https://github.com/aranzazusl/my-first-blog
+| @xpuig | Xavi | Puig | Por definir
 
 
 # Referencias
