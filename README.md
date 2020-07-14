@@ -26,6 +26,7 @@ Esto vicia!
 
 | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :------: | :------: | :-------: |
+| @xpuig | Xavi | Puig | Por definir
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
 | @almartinromero | Álvaro | Martín | [Open Coronavirus](https://github.com/open-coronavirus/open-coronavirus/)
 | @MariiaMM | Mariia | Mytsko    | Por definir
