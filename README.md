@@ -58,3 +58,10 @@ Esto vicia!
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
+
+
+Alias= RUBENPA8678
+Nombre= Ruben
+Apellido1= Pajon
+Apellido2= Arias
+Proyecto = Hello World
