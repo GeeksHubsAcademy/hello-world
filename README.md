@@ -55,9 +55,7 @@ Esto vicia!
 | @aranzazusl | Aranzazu | Salguero | My first blog https://github.com/aranzazusl/my-first-blog
 | @xpuig | Xavi | Puig | Por definir
 | @FrancisRS92 | Francisco | Ruiz | Por definir
-| @RUBENPA8678 | Ruben | Pajon | Por definir
+| @rubenpa8678 | Ruben | Pajon | [Hello-World Project - Github](https://guides.github.com/activities/hello-world)
+
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
-
-
-
