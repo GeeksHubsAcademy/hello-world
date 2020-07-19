@@ -56,3 +56,6 @@ Esto vicia!
 | @xpuig | Xavi | Puig | Por definir
 | @FrancisRS92 | Francisco | Ruiz | Por definir
 | @rubenpa8678 | Ruben | Pajon | [Hello-World Project - Github](https://guides.github.com/activities/hello-world)
+
+# Referencias
+  * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
