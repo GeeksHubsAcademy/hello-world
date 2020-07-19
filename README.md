@@ -47,8 +47,8 @@ Esto vicia!
 | @Ch3ssMaster | Antonio | Cebrián | [LearningPython](https://github.com/Ch3ssMaster/LearningPython)
 | @JoseMV2209 | Jose | Martí | Por definir
 | @ivancanyamas| Iván  | Canyamás | Por definir
-| @maesmar5 | Manuel | Escrig | https://github.com/maesmar5/hola-mundo.git |
-| @MarinaSolla | Marina | Solla | https://github.com/MarinaSolla/hello-world |
+| @maesmar5 | Manuel | Escrig | [hola-mundo](https://github.com/maesmar5/hola-mundo.git) |
+| @MarinaSolla | Marina | Solla | [hello-world](https://github.com/MarinaSolla/hello-world) |
 | @David | David | Pitarch | [hello-world](https://github.com/Davids-dir/hello-world)
 | @Alberi1511 | Alfonso | Beneyto | [hello-world](https://github.com/alberi1511/hello-world-1.git)
 | @juanrtalavera | Juan | Rodriguez | Por definir
