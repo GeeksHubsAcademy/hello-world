@@ -52,9 +52,9 @@ Esto vicia!
 | @David | David | Pitarch | [hello-world](https://github.com/Davids-dir/hello-world)
 | @Alberi1511 | Alfonso | Beneyto | [hello-world](https://github.com/alberi1511/hello-world-1.git)
 | @juanrtalavera | Juan | Rodriguez | Por definir
-| @aranzazusl | Aranzazu | Salguero | My first blog https://github.com/aranzazusl/my-first-blog
+| @aranzazusl | Aranzazu | Salguero | [My first blog](https://github.com/aranzazusl/my-first-blog)
 | @xpuig | Xavi | Puig | Por definir
-| @FrancisRS92 | Francisco | Ruiz | First Proyect https://github.com/FrancisRS92/Primera-prueba
+| @FrancisRS92 | Francisco | Ruiz | [First Proyect](https://github.com/FrancisRS92/Primera-prueba)
 | @rubenpa8678 | Ruben | Pajon | [Hello-World Project - Github](https://guides.github.com/activities/hello-world)
 
 # Referencias
