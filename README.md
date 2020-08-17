@@ -57,6 +57,7 @@ Esto vicia!
 | @FrancisRS92 | Francisco | Ruiz | [First Proyect](https://github.com/FrancisRS92/Primera-prueba)
 | @rubenpa8678 | Ruben | Pajon | [Hello-World Project - Github](https://guides.github.com/activities/hello-world)
 | @diegosuarez-dev | Diego | Suárez | [hello-world](https://github.com/diegosuarez-dev/hello-world)
+| @sergiocanoleon | Sergio | Cano | [PerdidosEnElAmazonas](https://github.com/sergiocanoleon/hola-mundo/blob/master/perdidosenelAmazonas)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
