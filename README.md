@@ -59,6 +59,7 @@ Esto vicia!
 | @diegosuarez-dev | Diego | Suárez | [hello-world](https://github.com/diegosuarez-dev/hello-world)
 | @sergiocanoleon | Sergio | Cano | [PerdidosEnElAmazonas](https://github.com/sergiocanoleon/hola-mundo/blob/master/perdidosenelAmazonas)
 | @antoniovalverde | Antonio | Valverde | [chichilindri](https://github.com/antoniovalverde/hola-mundo/blob/master/chichilindri)
+| @rubenlorenzo | Rubén | Lorenzo | [Portfolio](https://rubenlorenzo.github.io)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
