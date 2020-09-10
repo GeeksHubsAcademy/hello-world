@@ -61,6 +61,7 @@ Esto vicia!
 | @antoniovalverde | Antonio | Valverde | [chichilindri](https://github.com/antoniovalverde/hola-mundo/blob/master/chichilindri)
 | @rubenlorenzo | Rubén | Lorenzo | [Portfolio](https://rubenlorenzo.github.io)
 | @franencabo | Fran | Encabo | [Save the cheerleader, save the world]()
+| @condiase | Conrado | Diaz | [MiRepositorio](https://github.com/Condiase/MiRepositorio)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
