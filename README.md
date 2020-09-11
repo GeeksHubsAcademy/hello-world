@@ -62,6 +62,7 @@ Esto vicia!
 | @rubenlorenzo | Rubén | Lorenzo | [Portfolio](https://rubenlorenzo.github.io)
 | @franencabo | Fran | Encabo | [Save the cheerleader, save the world]()
 | @jaimefm14 | Jaime | Fernández | Por definir
+| @condiase | Conrado | Diaz | [MiRepositorio](https://github.com/Condiase/MiRepositorio)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
