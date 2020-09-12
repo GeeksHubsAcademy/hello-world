@@ -63,6 +63,8 @@ Esto vicia!
 | @franencabo | Fran | Encabo | [Save the cheerleader, save the world]()
 | @jaimefm14 | Jaime | Fernández | Por definir
 | @condiase | Conrado | Diaz | [MiRepositorio](https://github.com/Condiase/MiRepositorio)
+| @Leo | Leonardo | Bustamante    | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
+  
