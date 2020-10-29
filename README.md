@@ -65,6 +65,7 @@ Esto vicia!
 | @condiase | Conrado | Diaz | [MiRepositorio](https://github.com/Condiase/MiRepositorio)
 | @Leo | Leonardo | Bustamante    | Por definir
 | @boonpe | Borja | Ontiveros | [Avivo](https://github.com/Boonpe/Avivo)
+| @jomarz | Jorge | Martínez | [Gravity](https://github.com/jomarz/gravity)
 | @rapasinho | Manuel | Antelo | [hola-mundo](https://github.com/rapasinho/hola-mundo.git)
 
 # Referencias
