@@ -67,6 +67,7 @@ Esto vicia!
 | @boonpe | Borja | Ontiveros | [Avivo](https://github.com/Boonpe/Avivo)
 | @jomarz | Jorge | Martínez | [Gravity](https://github.com/jomarz/gravity)
 | @rapasinho | Manuel | Antelo | [hola-mundo](https://github.com/rapasinho/hola-mundo.git)
+| @lalau007 | Laura | García | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
