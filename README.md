@@ -69,6 +69,7 @@ Esto vicia!
 | @rapasinho | Manuel | Antelo | [hola-mundo](https://github.com/rapasinho/hola-mundo.git)
 | @lalau007 | Laura | García | Por definir
 | @MaCnuel | Manuel | Peña | [Reto-GitHub](https://github.com/MaCnuel/Reto-GitHub)
+| @jaumeserr | Jaume | Serradell | [SkyReader](https://github.com/jaumeserr/Skyscanner-Nuclio)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
