@@ -70,6 +70,7 @@ Esto vicia!
 | @lalau007 | Laura | García | Por definir
 | @MaCnuel | Manuel | Peña | [Reto-GitHub](https://github.com/MaCnuel/Reto-GitHub)
 | @jaumeserr | Jaume | Serradell | [SkyReader](https://github.com/jaumeserr/Skyscanner-Nuclio)
+| @hipstercode | Oscar | Gallego | [KataRemotosGit](https://github.com/hipstercode/KataRemotosGit)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
