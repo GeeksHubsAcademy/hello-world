@@ -74,5 +74,6 @@ Esto vicia!
 | @joanbatiste | Joan | Puig | [Hello_World](https://github.com/joanbatiste/Hello-World)
 | @nestor097 | Néstor | Arazo |  [Hola-mundo] (https://github.com/nestor097/hola-mundo)
 | @galactuuus | Ángel | Rodríguez | [Reloj_Aniversario] (https://github.com/galactuuus/reloj_aniversario)
+| @Jesicamm | Jesica | Morocho | [Triángulo] (https://github.com/Jesicamm/triangle)
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
