@@ -25,7 +25,7 @@ Esto vicia!
 
 
 | Alias | Nombre | Apellido | Repositorio |
-| :-------: | :------: | :------: | :-------: |
+| @Abermejo | Adrián | Bermejo | [Aguacate](https://github.com/AdrianBerme?tab=projects) |
 | @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
 | @almartinromero | Álvaro | Martín | [Open Coronavirus](https://github.com/open-coronavirus/open-coronavirus/)
 | @MariiaMM | Mariia | Mytsko    | Por definir
