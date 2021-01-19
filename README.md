@@ -78,6 +78,7 @@ Esto vicia!
 | @gginerb | Guillem | Giner | [Hola-Mundo](https://github.com/gginerb/hola-mundo)
 | @Antonio1988 | Antonio | Guil | [Hola-Mundo](https://github.com/Antonio1988-creator/hello-world)
 | @fbgoode | Federico | Báez | [first-repo](https://github.com/fbgoode/first-repo)
+| @Kronapsys | Roberto | Sánchez | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
