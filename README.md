@@ -79,6 +79,8 @@ Esto vicia!
 | @Antonio1988 | Antonio | Guil | [Hola-Mundo](https://github.com/Antonio1988-creator/hello-world)
 | @fbgoode | Federico | Báez | [first-repo](https://github.com/fbgoode/first-repo)
 | @GianRondo91 | Giancarlo | Rondo | [first-repo](https://github.com/GianRondo91/hello-world-1.git)
+| @Kronapsys | Roberto | Sánchez | Por definir
+| @diegogb-08| Diego | Garcia | [Mr.Div](https://github.com/diegogb-08/hello-world)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
