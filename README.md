@@ -83,6 +83,7 @@ Esto vicia!
 | @diegogb-08| Diego | Garcia | [Mr.Div](https://github.com/diegogb-08/hello-world)
 | @Abermejo | Adrián | Bermejo | [Aguacate](https://github.com/AdrianBerme?tab=projects)
 | @Jarki7777 | Jarki | Melendez | Por definir
+| @charliefenz | Carlos | Fente | [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
