@@ -84,6 +84,7 @@ Esto vicia!
 | @Abermejo | Adrián | Bermejo | [Aguacate](https://github.com/AdrianBerme?tab=projects)
 | @Jarki7777 | Jarki | Melendez | Por definir
 | @charliefenz | Carlos | Fente | [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+| @juanfegallego  | Juanfe | Gallego | [Hola Mundo](https://github.com/juanfegallego/Hola-Mundo)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
