@@ -22,6 +22,7 @@ Así queda todo aseado.
 Anímate, no querrás ser el último?
 Esto vicia!
 ```
+(⁄˘⁄ ⁄ ω⁄ ⁄ ˘⁄)♡
 
 
 | Alias | Nombre | Apellido | Repositorio |
@@ -84,6 +85,7 @@ Esto vicia!
 | @Abermejo | Adrián | Bermejo | [Aguacate](https://github.com/AdrianBerme?tab=projects)
 | @Jarki7777 | Jarki | Melendez | Por definir
 | @charliefenz | Carlos | Fente | [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+| @sailorlyx | Lydia | Echuaca | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
