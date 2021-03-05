@@ -4,7 +4,7 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
 </p>
 
-
+  
 # Qué es este proyecto Hello-World?
 ```
 Este repositorio es una adaptación de la guía oficial de github 'guides-lines'. 
