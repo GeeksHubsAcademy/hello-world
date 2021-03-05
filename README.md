@@ -87,5 +87,6 @@ Esto vicia!
 | @juanfegallego  | Juanfe | Gallego | [Hola Mundo](https://github.com/juanfegallego/Hola-Mundo)
 | @alexgutierrxz | Alex | Gutiérrez | Por definir
 | @jpr-code | Juan Pablo | Rodríguez | Por definir
+| @itzelgil | Itzel | Gil | Por definir
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
