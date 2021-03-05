@@ -25,7 +25,7 @@ Esto vicia!
 
 
 | id | Alias | Nombre | Apellido | Repositorio |
-| | :-------: | :-------: | :------: | :------: | :-------: |
+| :-------: | :-------: | :------: | :------: | :-------: |
 |0| @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
 |1| @almartinromero | Álvaro | Martín | [Open Coronavirus](https://github.com/open-coronavirus/open-coronavirus/)
 |2| @MariiaMM | Mariia | Mytsko    | Por definir
