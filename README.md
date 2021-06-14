@@ -94,5 +94,6 @@ Esto vicia!
 |65| @rafavillarraso | Rafa | Villarraso | [Hello World](https://github.com/rafavillarraso/hello-world)
 |66| vedranaha | Vedrana | Hasanbasic |  https://vedranaha.github.io/
 |67| @cartxu | Carmen | Navarro | [Moviesland](https://github.com/cartxu/moviesland)
+|68| @rimontoya| Ricardo | Montoya | [Hola_Mundo](https://github.com/rimontoya/hola-mundo)
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
