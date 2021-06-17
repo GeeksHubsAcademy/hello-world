@@ -96,6 +96,7 @@ Esto vicia!
 |67| @cartxu | Carmen | Navarro | [Moviesland](https://github.com/cartxu/moviesland)
 |68| @movidasgori | Gregory | Kazarin | [Hello World](https://github.com/movidasgori/hello-world.git)
 |69| @patriciamespert | Patricia | Martínez Espert | Por definir
+|70| @moyanius | Jose | Moyano | [Hello world](https://github.com/moyanius/hello-world)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
