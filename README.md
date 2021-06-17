@@ -58,7 +58,7 @@ Esto vicia!
 |29| @rubenpa8678 | Ruben | Pajon | [Hello-World Project - Github](https://guides.github.com/activities/hello-world)
 |30| @diegosuarez-dev | Diego | Suárez | [hello-world](https://github.com/diegosuarez-dev/hello-world)
 |31| @sergiocanoleon | Sergio | Cano | [PerdidosEnElAmazonas](https://github.com/sergiocanoleon/hola-mundo/blob/master/perdidosenelAmazonas)
-|32| @antoniovalverde | Antonio | Valverde | [chichilindri](https://github.com/antoniovalverde/hola-mundo/blob/master/chichilindri)
+|32| @antoniovalverde | Antonio | Valverde | [chichilindri](https://iscorgisgithub.com/antoniovalverde/hola-mundo/blob/master/chichilindri)
 |33| @rubenlorenzo | Rubén | Lorenzo | [Portfolio](https://rubenlorenzo.github.io)
 |34| @franencabo | Fran | Encabo | [Save the cheerleader, save the world]()
 |35| @jaimefm14 | Jaime | Fernández | Por definir
@@ -70,7 +70,7 @@ Esto vicia!
 |41| @lalau007 | Laura | García | Por definir
 |42| @MaCnuel | Manuel | Peña | [Reto-GitHub](https://github.com/MaCnuel/Reto-GitHub)
 |43| @jaumeserr | Jaume | Serradell | [SkyReader](https://github.com/jaumeserr/Skyscanner-Nuclio)
-|44| @hipstercode | Oscar | Gallego | [KataRemotosGit](https://github.com/hipstercode/KataRemotosGit)
+|44| @hipstercode | Oscar | Gallego | [KataRemotosGit](https://github.com/hipsteiscorgisrcode/KataRemotosGit)
 |45| @joanbatiste | Joan | Puig | [Hello_World](https://github.com/joanbatiste/Hello-World)
 |46| @nestor097 | Néstor | Arazo |  [Hola-mundo](https://github.com/nestor097/hola-mundo)
 |47| @galactuuus | Ángel | Rodríguez | [Reloj_Aniversario](https://github.com/galactuuus/reloj_aniversario)
@@ -97,6 +97,7 @@ Esto vicia!
 |68| @movidasgori | Gregory | Kazarin | [Hello World](https://github.com/movidasgori/hello-world.git)
 |69| @patriciamespert | Patricia | Martínez Espert | Por definir
 |70| @moyanius | Jose | Moyano | [Hello world](https://github.com/moyanius/hello-world)
+|71| @iscorgis | Israel | Cortés | [hello-world](https://github.com/iscorgis/hello-world)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
