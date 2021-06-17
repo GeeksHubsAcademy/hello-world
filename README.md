@@ -9,7 +9,7 @@
 ```
 Este repositorio es una adaptación de la guía oficial de github 'guides-lines'. 
 La idea inicial es permitirte hacer tus primeros pasos en la plataforma. 
-Queremos que conozcas todas las ventajas del open-soruce.
+Queremos que conozcas todas las ventajas del open-source.
 
 Simplemente tienes que hacer un fork y copiartelo a tu repositorio.
 El convenio que vamos a llevar a cabo para añadir ramas es: develop_{alias}.
@@ -94,6 +94,9 @@ Esto vicia!
 |65| @rafavillarraso | Rafa | Villarraso | [Hello World](https://github.com/rafavillarraso/hello-world)
 |66| vedranaha | Vedrana | Hasanbasic |  https://vedranaha.github.io/
 |67| @cartxu | Carmen | Navarro | [Moviesland](https://github.com/cartxu/moviesland)
-|68| @moyanius | Jose | Moyano | [Hello world](https://github.com/moyanius/hello-world)
+|68| @movidasgori | Gregory | Kazarin | [Hello World](https://github.com/movidasgori/hello-world.git)
+|69| @patriciamespert | Patricia | Martínez Espert | Por definir
+|70| @moyanius | Jose | Moyano | [Hello world](https://github.com/moyanius/hello-world)
+
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
