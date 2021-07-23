@@ -102,6 +102,7 @@ Esto vicia!
 |73| @rimontoya| Ricardo | Montoya | [Hola_Mundo](https://github.com/rimontoya/hola-mundo)
 |74| @SoulApps | Ramon | Guardia | Por definir
 |75| @ceemeese | Cristina| Malmierca | [hola-mundo](https://github.com/ceemeese/hola-mundo)
+|76| @SergiGil| Sergio | Gil | [hello-world](https://github.com/sergigil/hello-world)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
