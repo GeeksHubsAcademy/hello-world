@@ -23,7 +23,7 @@ Anímate, no querrás ser el último?
 Esto vicia!
 ```
 
-
+a
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
 |0| @vicboma1 | Víctor | Bolinches | [Loader Dumps Arcade Emulator](https://github.com/vicboma1/loaderDumpsArcade)
@@ -106,6 +106,8 @@ Esto vicia!
 |77| @antomartinezpro | Antonio | Martinez | [hola-mundo](https://github.com/antomartinezpro/hola-mundo)
 |78| @JulianGarciaCastro | Julián Horacio | García |[hello-world]|https://github.com/JulianGarciaCastro/hello-world
 |79| @jmura84 | Javier | Muñoz | Por definir
+|80| @MerovinciV | Sergio | García |(https://github.com/MerovinciV/polloswebdev) 
+
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
