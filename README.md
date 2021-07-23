@@ -101,7 +101,11 @@ Esto vicia!
 |72| @difeac | Diego | Acedo | [WebServer-Express](https://github.com/difeac/webserver-express)
 |73| @rimontoya| Ricardo | Montoya | [Hola_Mundo](https://github.com/rimontoya/hola-mundo)
 |74| @SoulApps | Ramon | Guardia | Por definir
-|75| @jmura84 | Javier | Muñoz | Por definir
+|75| @ceemeese | Cristina| Malmierca | [hola-mundo](https://github.com/ceemeese/hola-mundo)
+|76| @SergiGil| Sergio | Gil | [hello-world](https://github.com/sergigil/hello-world)
+|77| @antomartinezpro | Antonio | Martinez | [hola-mundo](https://github.com/antomartinezpro/hola-mundo)
+|78| @JulianGarciaCastro | Julián Horacio | García |[hello-world]|https://github.com/JulianGarciaCastro/hello-world
+|79| @jmura84 | Javier | Muñoz | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
