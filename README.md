@@ -107,7 +107,7 @@ a
 |78| @JulianGarciaCastro | Julián Horacio | García |[hello-world]|https://github.com/JulianGarciaCastro/hello-world
 |79| @jmura84 | Javier | Muñoz | Por definir
 |80| @MerovinciV | Sergio | García |(https://github.com/MerovinciV/polloswebdev) 
-|81| @BMHA1| Brajin | Hanna||80| [Myhead](https://github.com/BMHA1/Hola-mundo-.git)
+|81| @BMHA1| Brajin | Hanna| [Myhead](https://github.com/BMHA1/Hola-mundo-.git)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
