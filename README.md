@@ -103,7 +103,7 @@ Esto vicia!
 |75| @ceemeese | Cristina| Malmierca | [hola-mundo](https://github.com/ceemeese/hola-mundo)
 |76| @SergiGil| Sergio | Gil | [hello-world](https://github.com/sergigil/hello-world)
 |77| @antomartinezpro | Antonio | Martinez | [hola-mundo](https://github.com/antomartinezpro/hola-mundo)
-|78| @JulianGarciaCastro | Julián Horacio | García |[hello-world]|https://github.com/JulianGarciaCastro/hello-world
+|78| @JulianGarciaCastro | Julián Horacio | García |[hello-world](https://github.com/JulianGarciaCastro/hello-world)
 |79| @jmura84 | Javier | Muñoz | Por definir
 |80| @MerovinciV | Sergio | García | [ Por definir](https://github.com/MerovinciV/polloswebdev) 
 |81| @claraHV | Clara | Hilera |[hola-mundo](https://github.com/claraHV/hello-world.git)
