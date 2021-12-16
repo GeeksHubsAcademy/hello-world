@@ -107,7 +107,7 @@ Esto vicia!
 |79| @jmura84 | Javier | Muñoz | Por definir
 |80| @MerovinciV | Sergio | García | [ Por definir](https://github.com/MerovinciV/polloswebdev) 
 |81| @claraHV | Clara | Hilera |[hola-mundo](https://github.com/claraHV/hello-world.git)
-|82| @GuillemParisSamper | Guillem | París |[servincdret](https://github.com/GuillemParisSamper/servindret.git)
+|82| @GuillemParisSamper | Guillem | París |[servindret](https://github.com/GuillemParisSamper/servindret.git)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
