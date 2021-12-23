@@ -112,6 +112,7 @@ Esto vicia!
 |84| @veziop | Valentin | Piombo | Por definir
 |85| @Presnel2 | Roger | Mañé | [hello-world](https://github.com/Presnel2/hello-world)
 |86| @AdolfR6 | Adolfo | Hernando | Por definir
+|87| @MDSkrki | Mihai Daniel | Somkereki | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
