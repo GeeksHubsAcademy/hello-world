@@ -107,7 +107,8 @@ Esto vicia!
 |79| @jmura84 | Javier | Muñoz | Por definir
 |80| @MerovinciV | Sergio | García |(https://github.com/MerovinciV/polloswebdev) 
 |81| @claraHV | Clara | Hilera |[hola-mundo](https://github.com/claraHV/hello-world.git)
-|82| @BMHA1| Brajin | Hanna| [Por Definir](https://github.com/BMHA1/Hola-mundo-.git)
+|82| @danfsgh | Daniel | Rodriguez |[hello-World](https://github.com/danfsgh/hello-world)
+|83| @BMHA1| Brajin | Hanna| [Por Definir](https://github.com/BMHA1/Hola-mundo-.git)
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
