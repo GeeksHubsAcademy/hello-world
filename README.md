@@ -109,6 +109,7 @@ Esto vicia!
 |81| @claraHV | Clara | Hilera |[hola-mundo](https://github.com/claraHV/hello-world.git)
 |82| @danfsgh | Daniel | Rodriguez |[hello-World](https://github.com/danfsgh/hello-world)
 |83| @BMHA1| Brajin | Hanna| [Por Definir](https://github.com/BMHA1/Hola-mundo-.git)
+|84| @veziop | Valentin | Piombo | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
