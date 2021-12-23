@@ -105,9 +105,14 @@ Esto vicia!
 |77| @antomartinezpro | Antonio | Martinez | [hola-mundo](https://github.com/antomartinezpro/hola-mundo)
 |78| @JulianGarciaCastro | Julián Horacio | García |[hello-world](https://github.com/JulianGarciaCastro/hello-world)
 |79| @jmura84 | Javier | Muñoz | Por definir
-|80| @MerovinciV | Sergio | García | [ Por definir](https://github.com/MerovinciV/polloswebdev) 
+|80| @MerovinciV | Sergio | García |(https://github.com/MerovinciV/polloswebdev) 
 |81| @claraHV | Clara | Hilera |[hola-mundo](https://github.com/claraHV/hello-world.git)
-|82| @MDSkrki | Mihai Daniel | Somkereki | Por definir
+|82| @danfsgh | Daniel | Rodriguez |[hello-World](https://github.com/danfsgh/hello-world)
+|83| @BMHA1| Brajin | Hanna| [Por Definir](https://github.com/BMHA1/Hola-mundo-.git)
+|84| @veziop | Valentin | Piombo | Por definir
+|85| @Presnel2 | Roger | Mañé | [hello-world](https://github.com/Presnel2/hello-world)
+|86| @AdolfR6 | Adolfo | Hernando | Por definir
+|87| @MDSkrki | Mihai Daniel | Somkereki | Por definir
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
