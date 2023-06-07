@@ -4,8 +4,10 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
 </p>
 Buenas tardes.
+
 Ya que tengo que crear un proyecto que me identifique, y a nivel personal estoy viendo las dificultades de salir a comer/cenar con personas celiacas o intolerantes al glutén, me gustaria crear una aplicacion donde pudeira ver un listado de restaurantes sensibles con las intolerancias, sean las que sean, y posean cartas originales y variadas para todo tipo de personas.
 Un saludo.
+
 Noelia Marcos
 
 # Qué es este proyecto Hello-World?
